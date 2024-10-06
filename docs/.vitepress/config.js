@@ -70,10 +70,6 @@ export default defineConfig({
                 link: '/helpers/display',
               },
               {
-                text: 'Media',
-                link: '/helpers/media',
-              },
-              {
                 text: 'Opacity',
                 link: '/helpers/op',
               },

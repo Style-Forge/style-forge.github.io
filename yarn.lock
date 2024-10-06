@@ -983,47 +983,47 @@ stringify-entities@^4.0.0:
     character-entities-html4 "^2.0.0"
     character-entities-legacy "^3.0.0"
 
-style-forge.base@^5.3.4:
-  version "5.3.4"
-  resolved "https://registry.yarnpkg.com/style-forge.base/-/style-forge.base-5.3.4.tgz#f8cb11011bdedf5e1be5bb949738a051f16a7327"
-  integrity sha512-+rax61YsuyfGbzbOlb6Kj73V4uIWpTEq24F12phQNxwDA60lcHYzvFaAN0vTM7TZTYV/G1pYDR0Q1F9TbwuEjg==
+style-forge.base@^5.3.6:
+  version "5.3.6"
+  resolved "https://registry.yarnpkg.com/style-forge.base/-/style-forge.base-5.3.6.tgz#a7694980195e071613ac92b767479311bb9d23da"
+  integrity sha512-fZU+IrKkwCUO1rCwtBLahmmYauj2LtujtH7ZWJ/ByVtZ+TvSsH2H1h5Pe9d43V3WV/0Vzhn4RDRjjq+661Z7Fw==
 
-style-forge.colors@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/style-forge.colors/-/style-forge.colors-1.3.0.tgz#ebca26c0f92bedfc35d62d9d326137f9c2523483"
-  integrity sha512-YqJL8fsT42CVzww17RHt2EYHR1jNNDDCl+QxfE4yBktDkBzlO6cpDWkX4tBBv172ma3+COuvL/x8h+pgBEKd2w==
+style-forge.colors@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/style-forge.colors/-/style-forge.colors-1.3.1.tgz#6115148ce047c2432fb98b5f0cf96fc1b55f1b1e"
+  integrity sha512-9zox2OU/cSBcViENXvDEFbTNAMhNjo9cvHqkpxQTbQnhHLxsJw/c1DqnpYXD5xN2EeLaZo6y0ryzMC85w2KCOw==
 
-style-forge.form@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/style-forge.form/-/style-forge.form-4.0.3.tgz#5e31a9ac375fd4812e2837dbeea66b412bf9b322"
-  integrity sha512-VFw2COGZkDBB21UgwNsywLehUV2Z2w8AGdvSXgElt+9FSTlhfvHMPQIzpQ1Kdr9I3/gQlegg48Z8//8SMUbIgA==
+style-forge.form@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/style-forge.form/-/style-forge.form-4.0.4.tgz#f33e377813d4be4813759f5a113195340f7913c8"
+  integrity sha512-6OykPZJu7NQrzioJUdpypmt/vcMzaUL6QfolYLWjUE3asgKchiG250X8Ya/a06IqBB3zxrdAHfpc4fvufH+MwA==
 
-style-forge.helpers@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/style-forge.helpers/-/style-forge.helpers-2.6.0.tgz#1836ef7dec10952c2c7428c9d7ad749eccc04657"
-  integrity sha512-4AhgY8K7WJiiM3M9A7I+Y2XuOPBNW9J2oDWuNM5sigMKqL+7Q6Wu8HagL+rW+mkAboMa7TiN/vyYh8lc6J5ZkQ==
+style-forge.helpers@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/style-forge.helpers/-/style-forge.helpers-2.6.1.tgz#1062687d9df6bfaeedce7d540cf88fe3faa3bd18"
+  integrity sha512-N+EMk5OukWhr686uS6kGT3xdbozoKzODSGMPqd8hs6CqdTobFBuRFArLqq8tctOoJSvpLWBMVU/hTQHeLUjbIg==
 
-style-forge.patterns@^2.0.18:
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/style-forge.patterns/-/style-forge.patterns-2.0.18.tgz#a484e3b37af14d9bac5a4e36fbba9278c19594ae"
-  integrity sha512-InN7TrH3DzitwHkJhilNYugen5ek3/gTij6qsUAVvfn/t2t4Hz+qAWs7IuAwZfMOib/dHakHkz2YjRrRP7L+sg==
+style-forge.patterns@^2.0.19:
+  version "2.0.19"
+  resolved "https://registry.yarnpkg.com/style-forge.patterns/-/style-forge.patterns-2.0.19.tgz#b3c9adac85f428934ef69ec6682becd4cafc12b4"
+  integrity sha512-t8uh6hRnzbKNaZUY15o7pzzjaCiaoRhI0imxCKR3ZR0cNldZmc8ZyFvCBhuLPGEOkCMsvx/d7jtQ/70wPva7oA==
 
-style-forge.themes@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/style-forge.themes/-/style-forge.themes-1.1.4.tgz#23160c28aad3c455fceedb5a7e7aedf344a76d6f"
-  integrity sha512-oD9Ny6lAt258qOYqbQbxn/tssMPNF19Es9I+DLJOqKMXqmrq5GHFuhpuMzZvJGjUI6reZKualWad+Lu0JM4WsA==
+style-forge.themes@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/style-forge.themes/-/style-forge.themes-1.1.5.tgz#fbad639a89669dd17e55c542a7faaf12e5b3f90b"
+  integrity sha512-XjGrPcXSV4oNEQjTFORagRE0MnB9ZXK8VW9ZAY0JsF8el2Bqg+NQi6vsSK8C9WhVMh1vYt8YNQTfUF2z4KDmwg==
 
-style-forge@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/style-forge/-/style-forge-4.3.0.tgz#903da29b96eef5018b26a9f023d7991346dc1c7b"
-  integrity sha512-XYeCQXKCWJ+YEDA5fi6w6F/pGFXXFb4elXDDO1h/22t4d2WFIfQzydQssXyjbfBCSUY2TkzMKuOaarN91+tSDw==
+style-forge@^4.3.7:
+  version "4.3.7"
+  resolved "https://registry.yarnpkg.com/style-forge/-/style-forge-4.3.7.tgz#0b23331771af2bb03234231b324b472c06affced"
+  integrity sha512-21VWY/yFJpygMwLg7mWywcarDTFymVAidVo6EyvAEXtk0vlfD6LCcEPEcgfmBz0uzHSuD9JfBIsm0fwRqWHv6Q==
   dependencies:
-    style-forge.base "^5.3.4"
-    style-forge.colors "^1.3.0"
-    style-forge.form "^4.0.3"
-    style-forge.helpers "^2.6.0"
-    style-forge.patterns "^2.0.18"
-    style-forge.themes "^1.1.4"
+    style-forge.base "^5.3.6"
+    style-forge.colors "^1.3.1"
+    style-forge.form "^4.0.4"
+    style-forge.helpers "^2.6.1"
+    style-forge.patterns "^2.0.19"
+    style-forge.themes "^1.1.5"
 
 superjson@^2.2.1:
   version "2.2.1"

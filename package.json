@@ -25,6 +25,6 @@
   },
   "homepage": "https://style-forge.github.io/",
   "dependencies": {
-    "style-forge": "^4.3.0"
+    "style-forge": "^4.3.7"
   }
 }
