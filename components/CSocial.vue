@@ -1,5 +1,5 @@
 <template>
-  <div class="$d:i fz:h3 $lh:0 $va:m gap:y:0">
+  <div class="$d:i $va:m gap:y:0 gap:x:md">
     <a class="op:75" href="https://github.com/Style-Forge/" target="_blank">
       <img src="/social/github.svg" alt="GitHub Style-Forge" width="32" height="32" />
     </a>
