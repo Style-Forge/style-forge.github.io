@@ -46,7 +46,6 @@ export default {
 @import 'style-forge.helpers/src/padding.css';
 @import 'style-forge.helpers/src/position.css';
 @import 'style-forge.helpers/src/radius.css';
-@import 'style-forge.helpers/src/image.css';
 
 @import 'style-forge.media/src/text.css';
 

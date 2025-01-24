@@ -6,4 +6,6 @@
 @import 'style-forge.helpers/src/flex.css';
 @import 'style-forge.helpers/src/gap.css';
 
+@import 'style-forge.helpers/src/image.css';
+@import 'style-forge.helpers/src/op.css';
 @import 'style-forge.helpers/src/text.css';
