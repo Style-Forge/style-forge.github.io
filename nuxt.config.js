@@ -78,8 +78,7 @@ export default {
   loadingIndicator: false,
 
   router: {
-    mode: 'abstract',
-    base: '/style-forge.github.io/'
+    mode: 'abstract'
   },
 
   generate: {
