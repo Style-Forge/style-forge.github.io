@@ -29,7 +29,6 @@ export default {
   layout: 'main',
   head() {
     return {
-      title: 'test',
       meta: [
         { name: 'robots', content: 'index, follow' }
       ]
