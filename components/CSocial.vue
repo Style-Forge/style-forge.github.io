@@ -4,7 +4,7 @@
       <img src="/social/github.svg" alt="GitHub Style-Forge" width="32" height="32" />
     </a>
     <a class="op:75" href="https://www.npmjs.com/package/style-forge" target="_blank">
-      <img src="https://img.shields.io/npm/v/style-forge" alt="npm">
+      <img src="/social/npm.svg" alt="NPM Style-Forge" width="32" height="32" />
     </a>
   </div>
 </template>
