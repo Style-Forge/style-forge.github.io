@@ -1,8 +1,8 @@
 <template>
-  <div class="@tab:d:f:y vh:min">
+  <div class="@tab:d:f:y @mob:d:f:y vh:min">
     <div class="pos:a t r z:1 ta:r pt:lg pr:lg"><c-social /></div>
-    <div class="pos:a w h grow:1 y:c @tab:pos:r"><nuxt /></div>
-    <div class="pos:a b w z:1 @tab:pos:r"><c-footer /></div>
+    <div class="pos:a w h grow:1 y:c @tab:pos:r @mob:pos:r"><nuxt /></div>
+    <div class="pos:a b w z:1 @tab:pos:r @mob:pos:r"><c-footer /></div>
   </div>
 </template>
 

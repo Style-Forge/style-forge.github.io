@@ -1,12 +1,12 @@
 <template>
   <div class="sf-var-violet sf-var-skyblue content d:f m:a h y:i $grow:1 $basis:0 ta:c">
-    <div class="cols:2 ta:l @tab:d:f:y @tab:ta:c">
-      <div class="col @tab:col:2 ta:c @dsk:hide">
+    <div class="cols:2 ta:l @tab:d:f:y @tab:ta:c @mob:d:f:y @mob:ta:c">
+      <div class="col ta:c @dsk:hide @tab:col:2 @mob:col:2">
         <picture class="pos:r d:ib">
           <img class="obj-fit:contain" src="/images/main.svg" alt="">
         </picture>
       </div>
-      <main class="col @tab:col:2">
+      <main class="col @tab:col:2 @mob:col:2">
         <div class="px:md">
           <h1 class="sf-c-txt-violet:50">Style-Forge</h1>
           <p class="fz:h3">CSS Framework</p>
@@ -14,7 +14,7 @@
           <a class="sf-button bd:c:ii radius:md mt:lg px:md sf-c-txt-violet">Documentation</a>
         </div>
       </main>
-      <div class="col:1 @tab:col:2 ta:c @tab:hide">
+      <div class="col:1 ta:c @tab:col:2 @tab:hide @mob:col:2 @mob:hide">
         <picture class="pos:r d:ib">
           <img class="obj-fit:contain" src="/images/main.svg" alt="">
         </picture>
