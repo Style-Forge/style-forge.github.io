@@ -1,7 +1,8 @@
 const node = document.createElement('div')
 document.body.appendChild(node)
 
-const classAdd = a => (document.documentElement.className = [document.documentElement.className, a].filter(x => x).join(' '))
+const classAdd = a =>
+  (document.documentElement.className = [document.documentElement.className, a].filter(x => x).join(' '))
 
 if (!checkVar()) classAdd('var')
 if (!checkFlex()) classAdd('flex')
@@ -9,10 +10,6 @@ if (!checkGrid()) classAdd('grid')
 if (!checkFloat()) classAdd('float')
 if (!checkTextAlign()) classAdd('ta')
 if (!checkAlignContent()) classAdd('xy')
-
-if (!('gap' in node.style)) classAdd('gap')
-if (!('marginBlock' in node.style)) classAdd('mpb')
-if (!('borderStartStartRadius' in node.style)) classAdd('radius')
 
 document.body.removeChild(node)
 
