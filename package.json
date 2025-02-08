@@ -14,7 +14,7 @@
     "lintfix": "prettier --write --list-different . && yarn lint:js --fix"
   },
   "dependencies": {
-    "style-forge": "^2025.2.6"
+    "style-forge": "^2025.2.8"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.26.5",
